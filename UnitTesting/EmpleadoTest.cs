@@ -22,7 +22,7 @@ namespace UnitTesting
         public EmpleadoTest()
         {
             var optionsBuilder = new DbContextOptionsBuilder<ProjectDbContext>();
-            optionsBuilder.UseSqlServer("Server=.;Database=ApiDB;user=user01;password=Admin1234");
+            optionsBuilder.UseSqlServer("Server=.;Database=ProjectDB;user=user01;password=Admin1234");
 
             _context = new ProjectDbContext(optionsBuilder.Options);
             EmpleadoService = new EmpleadoService(_context);
