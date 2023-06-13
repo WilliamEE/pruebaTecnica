@@ -1,0 +1,24 @@
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\DataModels.deps.json
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\DataModels.dll
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ref\DataModels.dll
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\DataModels.pdb
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\DataModels.AssemblyInfoInputs.cache
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\DataModels.AssemblyInfo.cs
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\DataModels.dll
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ref\DataModels.dll
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\DataModels.pdb
+C:\Users\Abner.Lopez\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\DataModels.csproj.AssemblyReference.cache
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\bin\Debug\net5.0\DataModels.deps.json
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\bin\Debug\net5.0\DataModels.dll
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\bin\Debug\net5.0\ref\DataModels.dll
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\bin\Debug\net5.0\DataModels.pdb
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\obj\Debug\net5.0\DataModels.csproj.AssemblyReference.cache
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\obj\Debug\net5.0\DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\obj\Debug\net5.0\DataModels.AssemblyInfoInputs.cache
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\obj\Debug\net5.0\DataModels.AssemblyInfo.cs
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\obj\Debug\net5.0\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\obj\Debug\net5.0\DataModels.dll
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\obj\Debug\net5.0\ref\DataModels.dll
+C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\DataModels\obj\Debug\net5.0\DataModels.pdb
