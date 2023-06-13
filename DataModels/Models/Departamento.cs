@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace DataModels
 {
-    public class Genders
+    public class Departamento
     {
         [Key]
-        public int GenderId { get; set; }
-        [MaxLength(15)]
-        [Required]
-        public string GenderName { get; set; }
+        public int IdDepartamento { get; set; }
+        [MaxLength(100)]
+        public string Nombre { get; set; }
+        public virtual ICollection<Empleado> Empleados { get; set; }
     }
 }

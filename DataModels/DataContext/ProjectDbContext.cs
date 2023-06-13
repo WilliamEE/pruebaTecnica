@@ -12,7 +12,7 @@ namespace DataModels
     {
 
         public ProjectDbContext(DbContextOptions<ProjectDbContext> options) : base(options) { }
-        public DbSet<Genders> Genders { get; set; }
-        public DbSet<Person> Person { get; set; }
+        public DbSet<Departamento> Departamento { get; set; }
+        public DbSet<Empleado> Empleado { get; set; }
     }
 }

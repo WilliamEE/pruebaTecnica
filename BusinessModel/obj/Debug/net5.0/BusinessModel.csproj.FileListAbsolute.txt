@@ -34,3 +34,21 @@ C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\
 C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\BusinessModel\obj\Debug\net5.0\ref\BusinessModel.dll
 C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\BusinessModel\obj\Debug\net5.0\BusinessModel.pdb
 C:\Users\William.Rosales\Desktop\ESCRITORIO\WILLIAM ROSALES\VARIOS\ADAL\Project\BusinessModel\obj\Debug\net5.0\BusinessModel.genruntimeconfig.cache
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\bin\Debug\net5.0\BusinessModel.deps.json
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\bin\Debug\net5.0\BusinessModel.runtimeconfig.json
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\bin\Debug\net5.0\BusinessModel.runtimeconfig.dev.json
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\bin\Debug\net5.0\BusinessModel.dll
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\bin\Debug\net5.0\ref\BusinessModel.dll
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\bin\Debug\net5.0\BusinessModel.pdb
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\bin\Debug\net5.0\DataModels.dll
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\bin\Debug\net5.0\DataModels.pdb
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\obj\Debug\net5.0\BusinessModel.csproj.AssemblyReference.cache
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\obj\Debug\net5.0\BusinessModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\obj\Debug\net5.0\BusinessModel.AssemblyInfoInputs.cache
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\obj\Debug\net5.0\BusinessModel.AssemblyInfo.cs
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\obj\Debug\net5.0\BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\obj\Debug\net5.0\BusinessModel.csproj.CopyComplete
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\obj\Debug\net5.0\BusinessModel.dll
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\obj\Debug\net5.0\ref\BusinessModel.dll
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\obj\Debug\net5.0\BusinessModel.pdb
+C:\Users\William.Rosales\OneDrive - Bufete Dr. F.A. Arias, S.A. de C.V\Desktop\Content\Other files\VARIOS\PRUEBAS TEC\2IT\AFP\Project\BusinessModel\obj\Debug\net5.0\BusinessModel.genruntimeconfig.cache

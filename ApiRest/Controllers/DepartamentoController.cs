@@ -11,29 +11,35 @@ namespace AfpApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class GendersController : ControllerBase
+    public class DepartamentoController : ControllerBase
     {
-        GendersService gendersService;
+        DepartamentoService DepartamentoService;
 
-        public GendersController(ProjectDbContext context)
+        public DepartamentoController(ProjectDbContext context)
         {
-            gendersService = new GendersService(context);
+            DepartamentoService = new DepartamentoService(context);
         }
-        // GET: api/<GendersController>
+        // GET: api/<DepartamentoController>
         [HttpGet]
-        public async Task<IEnumerable<Genders>> Get()
+        public async Task<IEnumerable<Departamento>> Get()
         {
-            return await gendersService.Get();
+            return await DepartamentoService.Get();
         }
 
+        // GET: api/<EmpleadoController>/idEmpleado
+        [HttpGet("{IdDepartamento}")]
+        public async Task<IEnumerable<Empleado>> Get(int IdDepartamento)
+        {
+            return await DepartamentoService.GetEmpleadosByIdDepartamento(IdDepartamento);
+        }
 
-        // POST api/<GendersController>
+        // POST api/<DepartamentoController>
         [HttpPost]
-        public async Task<ActionResult<Genders>> Post([FromBody] Genders genders)
+        public async Task<ActionResult<Departamento>> Post([FromBody] Departamento Departamento)
         {
             try 
             {
-                await gendersService.Save(genders);
+                await DepartamentoService.Save(Departamento);
             }
             catch(Exception ex) 
             { 
@@ -42,13 +48,13 @@ namespace AfpApi.Controllers
             return Ok();
         }
 
-        // PUT api/<GendersController>/5
+        // PUT api/<DepartamentoController>/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> Put(int id, [FromBody] Genders genders)
+        public async Task<IActionResult> Put(int id, [FromBody] Departamento Departamento)
         {
             try
             {
-                await gendersService.Update(id, genders);
+                await DepartamentoService.Update(id, Departamento);
             }
             catch (Exception ex)
             {
@@ -57,13 +63,13 @@ namespace AfpApi.Controllers
             return Ok();
         }
 
-        // DELETE api/<GendersController>/5
+        // DELETE api/<DepartamentoController>/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
             try
             {
-                await gendersService.Delete(id);
+                await DepartamentoService.Delete(id);
             }
             catch (Exception ex)
             {
